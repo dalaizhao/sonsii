@@ -1,3 +1,3 @@
 ## sonsii
 
-sonsii is php mini framework
+sonsii 是php的微框架
